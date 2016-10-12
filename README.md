@@ -3,11 +3,12 @@
 
 # 安装方法
 ## step 1
-安装python2.7 32位
+安装python2.7  __32位__
 ## step 2
 将PYTHON_PATH/Scripts和PYTHON_PATH加入到环境变量中
 ## step 3
 在控制台执行
+
 pip install Pillow-3.4.1-cp27-cp27m-win32.whl
 
 pip install pyHook-1.5.1-cp27-none-win32.whl
