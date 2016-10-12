@@ -9,7 +9,10 @@
 ## step 3
 在控制台执行
 pip install Pillow-3.4.1-cp27-cp27m-win32.whl
+
 pip install pyHook-1.5.1-cp27-none-win32.whl
+
 pip install pywin32-220.1-cp27-cp27m-win32.whl
+
 ## step 4
 将PYTHON_PATH/Lib/site-packages/pywin32_system32中pythoncom27.dll和pywintypes27.dll移动到PYTHON_PATH/Lib/win32/lib中
